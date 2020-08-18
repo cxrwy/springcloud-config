@@ -1,2 +1,2 @@
 config:
-  info: "spring cloud config-test,version=1"
+  info: "branch dev,spring cloud config-test,version=1"
